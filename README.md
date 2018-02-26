@@ -1,0 +1,2 @@
+# Week1_CST105_Programmingexercise1_MHatfield
+My first class project
